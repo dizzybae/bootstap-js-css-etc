@@ -1,2 +1,10 @@
-# bootstap-js-css-etc
-just for exercise
+##Hello otaku!
+
+
+这是一个测试用库，放一些mooc前端学习中用到的小玩意儿
+可能出现的有：
+*无意义的炫技动画
+*大量的div使用
+*强行添加的响应式布局
+
+见谅！学习中
